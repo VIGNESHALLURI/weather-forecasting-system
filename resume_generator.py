@@ -7,5 +7,5 @@ class A:
     def check(self):
         print(f"Name: {self.name}")
 
-A_instance = A("Alice", 30, ["Python", "JavaScript", "SQl"])
+A_instance = A("Alice", 30, ["Python", "JavaScript", "SQL"])
 A_instance.check()
