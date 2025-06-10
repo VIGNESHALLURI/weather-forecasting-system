@@ -59,3 +59,13 @@ public class WeatherForecast {
         scanner.close();
     }
 }
+
+
+class User {
+
+    // User default id, with user profile image and their
+    // bio.
+    userID uid;
+    string ImageURI;
+    string bio;
+}
